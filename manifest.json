@@ -1,0 +1,9 @@
+{
+  "id": "creator-workbench",
+  "name": "拾页 · 自媒体工作台",
+  "version": "0.1.0",
+  "minAppVersion": "1.8.0",
+  "description": "管理选题、经历、素材、稿件和发布复盘，自动维护 Markdown 索引并与 Codex 协作。",
+  "author": "Creator Workbench",
+  "isDesktopOnly": true
+}
